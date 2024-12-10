@@ -1,5 +1,4 @@
 
-```markdown
 # Robot and Camera Calibration
 
 This repository contains scripts for connecting and calibrating a RealSense D435i camera and a UR robot using RTDE.
@@ -67,7 +66,5 @@ Help us grow! Share this project with your friends and colleagues who might find
 
 ---
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
+
