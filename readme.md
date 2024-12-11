@@ -54,17 +54,22 @@ To perform calibration using RTDE, execute the following script:
 python calibrate_rtde.py
 ```
 
-## 🙌 Contributing
+
+## 🙌 
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
 ---
 
-## 📢 Spread the Word
+## 📢 
 
 Help us grow! Share this project with your friends and colleagues who might find it useful.
 
 ---
+# Acknowledgements
+
+Special thanks to Andy Zeng for his contribution to the Value Propagation Gradients (VPG) method. His work has been foundational to this project.
+For more details, visit [VPG by Andy Zeng](https://github.com/andyzeng/vpg).
 
 
 
