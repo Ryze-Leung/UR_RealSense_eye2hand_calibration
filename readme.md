@@ -69,7 +69,4 @@ Help us grow! Share this project with your friends and colleagues who might find
 # Acknowledgements
 
 Special thanks to Andy Zeng for his contribution to the Value Propagation Gradients (VPG) method. His work has been foundational to this project.
-For more details, visit [VPG by Andy Zeng](https://github.com/andyzeng/vpg).
-
-
-
+For more details, visit [VPG by Andy Zeng](https://github.com/andyzeng/visual-pushing-grasping).
