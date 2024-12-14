@@ -63,7 +63,7 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ## 📢 
 
-Help us grow! Share this project with your friends and colleagues who might find it useful.
+Share this project with your friends and colleagues who might find it useful.
 
 ---
 # Acknowledgements
